@@ -1,6 +1,6 @@
 ## Multi-modal online interaction EMPathy (Multi-EMP) Dataset
 
-![Dataset Environment](fig1.jpg)
+![Dataset Environment](fig1.png)
 
 - **Participants**: 66 participants forming 33 pairs (male-male and female-female combinations)
 - **Interaction Format**: Unscripted online video conversations with keyword prompts
