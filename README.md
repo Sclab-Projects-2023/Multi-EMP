@@ -1,6 +1,6 @@
 ## Multi-modal online interaction EMPathy (Multi-EMP) Dataset
 
-![Dataset Environment](fig1.png)
+![Dataset Environment](figures/fig1.png)
 
 - **Participants**: 66 participants forming 33 pairs (male-male and female-female combinations)
 - **Interaction Format**: Unscripted online video conversations with keyword prompts
@@ -66,19 +66,19 @@ The dataset provides two types of empathy measurements:
 
   
 ## Baseline Model Architecture
-![Model](fig2.png)
+![Model](figures/fig2.png)
 
 The model consists of two main components:
 
 ### 1. Bi-directional MLP-Mixer (Bi-Mixer)
 We introduce the Bi-directional MLP-Mixer (Bi-Mixer) as a training module. The model handles multi-modal data by simultaneously processing forward and reverse contextual information. This approach captures the bidirectional nature of real-time interactions, improving empathy prediction accuracy.
 
-![Bi-mixer](fig3.png)
+![Bi-mixer](figures/fig3.JPG)
 
 ### 2. Attention-Based Adaptive Weight Fusion
 The fusion module integrates features from multiple modalities using a cross-attention mechanism and an adaptive weight. This approach allows the model to prioritize the most relevant modalities for empathy prediction across different contexts.
 
-![Fusion](fig4.png)
+![Fusion](figures/rev-fig-2.png)
 
 
 ## Installation
