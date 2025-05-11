@@ -73,9 +73,12 @@ The model consists of two main components:
 ### 1. Bi-directional MLP-Mixer (Bi-Mixer)
 We introduce the Bi-directional MLP-Mixer (Bi-Mixer) as a training module. The model handles multi-modal data by simultaneously processing forward and reverse contextual information. This approach captures the bidirectional nature of real-time interactions, improving empathy prediction accuracy.
 
+![Bi-mixer](fig3.png)
+
 ### 2. Attention-Based Adaptive Weight Fusion
 The fusion module integrates features from multiple modalities using a cross-attention mechanism and an adaptive weight. This approach allows the model to prioritize the most relevant modalities for empathy prediction across different contexts.
 
+![Fusion](fig4.png)
 
 
 ## Installation
