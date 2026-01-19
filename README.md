@@ -90,11 +90,13 @@ pip install -r requirements.txt
 ```
 
 ## Citation
-TBA
+Eunchae Lim, Hwaryung Lee, Ji-eun Shin, Hyung-Jeong Yang, Soo-Hyung Kim, Seungwon Kim, Aera Kim, "Multi-modal adaptive empathy assessment in online dyadic interaction using bi-directional multi-layer perceptron-mixer and dynamic weights fusion", Engineering Applications of Artificial Intelligence, Vol. 167, 113864, 2026
+
+Paper: https://www.sciencedirect.com/science/article/pii/S0952197626001454
 
 
 ## Acknowledgments
-TBA
+This work was supported in part by the National Research Founda tion of Korea (NRF) grant funded by the Korea Government [Ministry of Science and ICT (MSIT)] under Grant RS-2023-00219107(50%), in part by the Institute of Information and Communications Tech nology Planning and Evaluation (IITP), South Korea through the Artificial Intelligence Convergence Innovation Human Resources De velopment grant funded by the Korea Government (MSIT) under Grant IITP-2023-RS-2023-00256629(30%), and in part by the IITP Innovative Human Resource Development for Local Intellectualization program grant funded by the Korea government (MSIT) under Grant IITP-2026-RS-2024-00437718(20%). 
 
 
 
